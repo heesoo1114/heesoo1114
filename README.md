@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=60&section=header&text=Hello,%20I'm%20Heesoo&fontSize=70&descAlignY=200&descAlign=1000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Hello,%20I'm%20Heesoo&fontSize=70&descAlignY=200&descAlign=1000)
 
 #### Introduction
 안녕하세요. 실패를 두려워 하지 않는 개발자 윤희수입니다.   
