@@ -11,7 +11,7 @@
         <p>다양한 게임을 만들어 출시해 보았습니다.</p>
     </div>
     <div style="flex: 1; text-align: right;">
-        <img src="https://cdn.discordapp.com/attachments/1004271251071717499/1218917996173463663/1.jpg?ex=660968d8&is=65f6f3d8&hm=b044cab06f6b2ad4a44fbc812452105e6daf5d38b5338c815971fda62d83b30d&" width="450"height="200">
+        <img src="https://cdn.discordapp.com/attachments/1004271251071717499/1218917996173463663/1.jpg?ex=660968d8&is=65f6f3d8&hm=b044cab06f6b2ad4a44fbc812452105e6daf5d38b5338c815971fda62d83b30d&" width="400"height="180">
         <p>여러 공모전에 참가해 게임을 전시하고, 수상하였습니다.</p>
     </div>
    </div>
