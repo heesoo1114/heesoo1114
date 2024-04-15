@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center;">
-    <img width="410" src="https://cdn.discordapp.com/attachments/1004271251071717499/1218948829836214372/image.png?ex=66098590&is=65f71090&hm=f5f82eb5e6704ec49223ae02f2f0159791ede5d32d27359d6b93939d970b04dc&"> 
-    <img width="410" src="https://cdn.discordapp.com/attachments/1004271251071717499/1218946027495755887/image.png?ex=660982f3&is=65f70df3&hm=f0c1afd97bb06b03bbfbe59976f204953365739a1347bab92b02b2680dfdd010&">
-</div>
+안녕하세요.
+윤희수입니다.
 
 - - -
 
