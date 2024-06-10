@@ -1,10 +1,10 @@
-### <center>"같이 일을 하고 싶게 만드는 가치 있는 개발자" **윤희수**입니다.ㅤ</center>
+## <center>"같이 일을 하고 싶게 만드는 가치 있는 개발자" **윤희수**입니다.ㅤ</center>
 ***
-##### <center>앞으로 나아가기 위해 **도전**하고 있습니다.</br>
+#### <center>앞으로 나아가기 위해 **도전**하고 있습니다.</br>
 <center> - 7개 게임을 마켓에 출시한 경험이 있습니다. </br>
 - 서드파티 SDK를 공부하여 실제 프로젝트에 적용해 보았습니다.</br>
 
-##### <center></br>**자신**은 하되, **자만**은 하지 않는다.</br>
+#### <center></br>**자신**은 하되, **자만**은 하지 않는다.</br>
 <center> - 코드를 작성하는 과정에서 지속해서 검토하며 꼼꼼하게 관리합니다.  </br>
 - 성장하는 데에서 한계는 없다고 생각합니다. </br>
 
@@ -25,11 +25,11 @@
 
 <p align="left">
 <a href="https://play.google.com/store/apps/developer?id=Team1243">
-  <img src="https://cdn.mos.cms.futurecdn.net/Q2oLsPvoGLpzWuDqZgzANH.jpg" alt="이미지1 설명" width="25%" />
+  <img src="https://cdn.mos.cms.futurecdn.net/Q2oLsPvoGLpzWuDqZgzANH.jpg" width="25%" />
 <a href="https://store.onstove.com/ko/games/2914">
-  <img src="https://cdn.digitaltoday.co.kr/news/photo/202310/490150_456975_1036.png" alt="이미지2 설명" width="30%" />
+  <img src="https://cdn.digitaltoday.co.kr/news/photo/202310/490150_456975_1036.png" width="25%" />
 <a href="https://heesoo1114.itch.io/mirror-world"pvs=74">
-  <img src="https://static.wikia.nocookie.net/wolfquest/images/1/1a/Itch-io.png" alt="이미지3 설명" width="25%" />
+  <img src="https://static.wikia.nocookie.net/wolfquest/images/1/1a/Itch-io.png" width="25%" />
 </p>
 
 - - -
